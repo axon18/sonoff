@@ -6,9 +6,9 @@
 
 **Software required**
 
-[Esptools](https://github.com/axon18/sonoff/raw/master/esptool.zip)
+[Esptools](https://github.com/axon18/sonoff/blob/master/esptool.zip)
 
-[Python-2.7.13](https://github.com/axon18/sonoff/raw/master/python-2.7.13.msi)
+[Python-2.7.13](https://github.com/axon18/sonoff/blob/master/python-2.7.13.msi)
 
 [Original firmware](https://github.com/axon18/sonoff/blob/master/flash_1M.bin)
 
