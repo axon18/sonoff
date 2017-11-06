@@ -5,7 +5,9 @@
 **Software required**
 
 [Esptools](https://github.com/axon18/sonoff/blob/master/esptool.zip)
+
 [Python-2.7.13](https://github.com/axon18/sonoff/blob/master/python-2.7.13)
+
 [Original firmware](https://github.com/axon18/sonoff/blob/master/flash_1M.bin)
 
  
@@ -18,4 +20,4 @@
 
  ***esptool.py -b 115200 --port COM9 write_flash --flash_freq 80m 0x000000 flash_1M.bin***
 
-This works well in Microsoft Windows.
+This has tested and works well in Microsoft Windows.
