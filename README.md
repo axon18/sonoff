@@ -1,4 +1,5 @@
 **Sonoff Basic**
+
 ![enter image description here](http://sonoff.itead.cc/images/basicw.jpg)
 
 
@@ -14,9 +15,13 @@
 **Instructions:**
 
 1- connect sonoff to ftdi device
+
 2- press button in sonoff and the connect to usb port
+
 3- release button in sonoff
+
 4- open prompt comand inside folder esptools and execute the next command:
+
 
  ***esptool.py -b 115200 --port COM9 write_flash --flash_freq 80m 0x000000 flash_1M.bin***
 
